@@ -1,5 +1,8 @@
 # FingerPrint Authentication
 
-## Getting Started
+Dependencies:<br />
+  local_auth: ^2.3.0 <br />
 
-local_auth: ^2.3.0
+ 
+## WebSite
+- [Fakhravari.ir](https://fakhravari.ir)
